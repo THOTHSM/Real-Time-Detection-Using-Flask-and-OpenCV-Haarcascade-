@@ -42,4 +42,5 @@ This will start the development server on http://127.0.0.1:5000/
 
 You should now see the live video stream with real-time object detection (faces, eyes, smiles, and cat faces).
 
-![My Image](https://github.com/THOTHSM/Real-Time-Detection-Using-Flask-and-OpenCV-Haarcascade-/blob/main/sceenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/THOTHSM/Real-Time-Detection-Using-Flask-and-OpenCV-Haarcascade-/main/sceenshot.png)
+
