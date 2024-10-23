@@ -42,3 +42,4 @@ This will start the development server on http://127.0.0.1:5000/
 
 You should now see the live video stream with real-time object detection (faces, eyes, smiles, and cat faces).
 
+![sceenshot](https://github.com/user-attachments/assets/fbddfac8-fd70-40e4-8c79-b9dc245fd1b1)
